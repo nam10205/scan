@@ -1,0 +1,53 @@
+Form 3a
+POSTS AND TELECOMMUNICATIONS INSTT TUTE OF TECHNOLOGY
+FACULTY: INFORMATION TECIINOLOGY 1 FINAL EXAM
+DEPARTMENT: COMPUTER SCIENCE beside
+Course: Discrete Mathematics 1 (Semester 1, Academic year 2024-2025)
+Classes: Honors-Program Classes ‘Time: 90 minutes
+
+Exam Paper: |
+Question 1 (2 marks)
+
+a) Let p, q be propositions, do not use truth table to prove that the following proposition is a
+tautology: (-p A(pv 9) =q
+
+Cho p, q lat cdc ménh dé logic, khong sit dung bang gid tri chan ly, ching minh ménh dé logic
+sau la viing chic: (+p a (pv q)) 34
+
+b) A box contains marbles of two different sizes (large or small) and three different colors
+(blue, red, or yellow). Assume that the number of marbles of cach type is unlimited. What is the
+minimum number of marbles that must be taken out of the box to ensure that at least 6 marbles are
+identical in both size and color?
+
+M6t hop dung bi chita cdc vién bi cé kich thudc thugc m6t trong hai logi to hodc nhé va mau
+Sac thudc m6t trong ba mau xanh, do, vang. Gia sit ring 56 lugng méi logi bi la khong han ché.
+
+_ Hoi phat lay ra it nat bao nhi nhiéu vién bi trong | hop dé chdie chiin rang cé it nhat 6 vién bi giéng
+ahiau ca kich thuoc lan meu sic?
+Question 2 (2 marks)
+
+a) A computer system considers a string of decimal digits to be a valid code word if it contains
+the odd number of 6's. For example, 1231407869 is valid, 120987045668 is invalid. Suppose that
+4a, is the number of valid code words of length n. Find the recurrence relation and initial condition
+for an?
+
+Mot hé thong may link coi m6t xdu cdc chit sé hé thap phan la m6t tie ma hgp 1é néu né chita
+mot so lé chit so 6. Vi du 1231407869 la hop lé, 120987045668 la khong hop 1é. Gid sit ds la sé cde
+tis mis hop 1é d6 dai n. Hazy tim hé thite truy hoi va diéw kién dau cho a?
+
+b) Solve the recurrence relation: a, = 6.5a,_; — 12 Sanz + 7a,-3 where n > 3 and a, =2,
+a, =6,a,=215 \
+
+Tim nghiém cia hé thitc truy h6i sau: a, = 6.5aq,_; — 125a,-2 + 7a,-3 VOin > 3 Va a, = 2,
+a, = 6,a, =215
+
+Question 3 (2 marks)
+
+a) Count the number of integer solutions to the equation x, + x2 + 2X3 +X, + Xs + Xs = 50 where
+62x, >2;8>x, >3andx;>5?
+
+Phacong trinh x, + x2 + X3 +X, +X5 +X_=50 cd bao nhiéu nghiém nguyén khéng dm thoa
+man diéu kién: 6 > x, > 2; 8 > x, >3 va x; > 5?
+
+b) How many ways can 6 people A, B, C, D, Ii, and I? be arranged in a horizontal line such that
+A stands next to 3, and C stands next to D?
