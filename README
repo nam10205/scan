@@ -1,0 +1,5 @@
+Install the Tesseract and add it to PATH for the pytesseract to find and use.
+Usage:
+- Put all the images in the 'input' folder.
+- Run main.py
+- The scanned images and OCR texts will be in 'output' folder.
